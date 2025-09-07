@@ -1,2 +1,5 @@
 # First-Project
-use first time
+This is my first git repo.
+<br>
+Author - Ritu Raj
+
